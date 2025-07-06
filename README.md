@@ -1,4 +1,4 @@
-# Athena-LCARS-Website
+# Solenne-LCARS-Website
 
 ## Custom Components
 
